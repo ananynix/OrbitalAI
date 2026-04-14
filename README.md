@@ -32,7 +32,6 @@ To solve this, this pipeline utilizes an **Unsupervised Autoencoder**. Instead o
 
 To validate the PoC, the model was tested against the confirmed fragmentation event of Starlink-34343 (NORAD ID: 64157) on March 29, 2026. 
 
-*INSERT YOUR GRAPH SCREENSHOT HERE: `![Autoencoder Results Graph](link_to_image.png)`*
 
 **Observation:**
 * For weeks prior to the event, the Autoencoder perfectly reconstructed the data, keeping the "AI Panic Level" well below the tripwire threshold.
